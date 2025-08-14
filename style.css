@@ -25,3 +25,11 @@ p1 {
     font-size: 42px;
     line-height: 2.2;
 }
+table {
+    border: 5px solid rgb(65, 225, 73);
+    padding: 10px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: cursive;
+    color:rgb(15, 2, 5);
+}
